@@ -37,6 +37,8 @@ a:hover{
     border-radius: 5px;
     width: 100%;
     color: white;
+    font-size: 18px;
+    font-weight: bold;
 }
 .btns a{
     border: none;
